@@ -3,7 +3,6 @@
  */
 import fs from 'fs';
 import eFetch from 'node-fetch-try';
-// import eFetch from 'node-fetch';
 import path from 'path';
 import os from 'os';
 import urlfun from 'url';
