@@ -14,7 +14,7 @@ a new method download http data in multiple, resume, retry.
 > shell
 ```shell
 
-npm i --save node-multi-resume-retry-downloader
+npm i --save node-multi-resume-retry-timeout-download
 npm i -d
 
 ```

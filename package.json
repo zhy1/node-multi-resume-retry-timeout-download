@@ -1,8 +1,8 @@
 {
-  "name": "node-mutil-downloader",
+  "name": "node-multi-resume-retry-timeout-download",
   "version": "0.0.1",
   "index":"src/index.js",
-  "description": "node-mutil-downloader base from node-fetch-retry",
+  "description": "node-multi-resume-retry-timeout-download base from node-fetch-retry",
   "scripts": {
     "prestart": "",
     "start": "",
