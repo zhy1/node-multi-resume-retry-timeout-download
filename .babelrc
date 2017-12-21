@@ -1,0 +1,14 @@
+{
+  "presets": [
+	"stage-0",
+	"es2015"
+  ],
+  "plugins": [
+	"add-module-exports",
+	"transform-class-properties",
+	"transform-es2015-classes",
+	"babel-plugin-dev-expression",
+	"transform-decorators-legacy",
+	"dynamic-import-webpack"
+  ]
+}
